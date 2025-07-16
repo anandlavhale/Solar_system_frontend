@@ -35,35 +35,13 @@ An immersive and interactive 3D simulation of the solar system built using **Thr
 ## 📦 Installation
 
 ### 📥 Clone the repository
-
-```bash
 git clone https://github.com/your-username/solar-system-threejs.git
+
 cd project
-🔧 Install dependencies
-bash
-Copy
-Edit
 npm install
-🧪 Run the App
-💻 Development Mode
-bash
-Copy
-Edit
+
 npm run dev
-🏗️ Build for Production
-bash
-Copy
-Edit
-npm run build
-🔍 Preview Build
-bash
-Copy
-Edit
-npm run preview
-🗂️ Project Structure
-arduino
-Copy
-Edit
+
 project/
 ├── public/
 │   └── ...static files
@@ -76,14 +54,5 @@ project/
 ├── tailwind.config.js
 ├── vite.config.ts
 └── package.json
-📷 Screenshots
-Add a screenshots/ folder and reference:
 
-scss
-Copy
-Edit
-![Solar System Preview](./screenshots/solar-system.png)
-🙋‍♂️ Contributing
 Feel free to open issues or pull requests to suggest new features or improvements.
-
-
